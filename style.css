@@ -4,182 +4,182 @@
 				display: block; 
 				}
 
-			.game-controller {
-				width: 512px;
-				height: 512px;
-				background-position: 512px -5px;
-			}
-
-			.game-console-2 {
-				width: 512px;
-				height: 512px;
-				background-position: 1024px -5px;
-			}
-
-			.game-console-14 {
-				width: 512px;
-				height: 512px;
-				background-position: 1536px -5px;
-			}
-
-			.game-console-11 {
-				width: 512px;
-				height: 512px;
-				background-position: 2048px -5px;
-			}
-
-			.game-console-10 {
-				width: 512px;
-				height: 512px;
-				background-position: 2560px -5px;
-			}
-
-			.game-console-7 {
-				width: 512px;
-				height: 512px;
-				background-position: 3072px -5px;
-			}
-
-			.game-console-13 {
-				width: 512px;
-				height: 512px;
-				background-position: 3584px -5px;
-			}
-
-			.game-console-12 {
-				width: 512px;
-				height: 512px;
-				background-position: 4096px -5px;
-			}
-
-			.game-console {
-				width: 512px;
-				height: 512px;
-				background-position: 4608px -5px;
-			}
-
-			.game-controller-3 {
-				width: 512px;
-				height: 512px;
-				background-position: 5120px -5px;
-			}
-
-			.game-console-5 {
-				width: 512px;
-				height: 512px;
-				background-position: 5632px -5px;
-			}
-
-			.game-controller-1 {
-				width: 512px;
-				height: 512px;
-				background-position: 6144px -5px;
-			}
-
-			.game-controller-9 {
-				width: 512px;
-				height: 512px;
-				background-position: 6656px -5px;
-			}
-
-			.game-controller-7 {
-				width: 512px;
-				height: 512px;
-				background-position: 7168px -5px;
-			}
-
-			.game-controller-8 {
-				width: 512px;
-				height: 512px;
-				background-position: 7680px -5px;
-			}
-
 			.MarioSeriesLogo {
 				width: 1200px;
 				height: 562px;
-				background-position: 8880px -5px;
-			}
-
-			.game-console-4 {
-				width: 512px;
-				height: 512px;
-				background-position: 9392px -5px;
-			}
-
-			.game-controller-5 {
-				width: 512px;
-				height: 512px;
-				background-position: 9904px -5px;
+				background-position: 1200px 0px;
 			}
 
 			.Super_Mario_3D_World {
 				width: 3094px;
 				height: 1930px;
-				background-position: 12998px -5px;
-			}
-
-			.game-console-16 {
-				width: 512px;
-				height: 512px;
-				background-position: 13510px -5px;
+				background-position: 4294px 0px;
 			}
 
 			.blackMage {
 				width: 364px;
 				height: 516px;
-				background-position: 13874px -5px;
-			}
-
-			.game-controller-2 {
-				width: 512px;
-				height: 512px;
-				background-position: 14386px -5px;
-			}
-
-			.game-controller-6 {
-				width: 512px;
-				height: 512px;
-				background-position: 14898px -5px;
-			}
-
-			.game-console-8 {
-				width: 512px;
-				height: 512px;
-				background-position: 15410px -5px;
+				background-position: 4658px 0px;
 			}
 
 			.game-console-1 {
 				width: 512px;
 				height: 512px;
-				background-position: 15922px -5px;
+				background-position: 5170px 0px;
 			}
 
-			.game-console-3 {
+			.game-console-10 {
 				width: 512px;
 				height: 512px;
-				background-position: 16434px -5px;
+				background-position: 5682px 0px;
 			}
 
-			.game-console-6 {
+			.game-console-11 {
 				width: 512px;
 				height: 512px;
-				background-position: 16946px -5px;
+				background-position: 6194px 0px;
+			}
+
+			.game-console-12 {
+				width: 512px;
+				height: 512px;
+				background-position: 6706px 0px;
+			}
+
+			.game-console-13 {
+				width: 512px;
+				height: 512px;
+				background-position: 7218px 0px;
+			}
+
+			.game-console-14 {
+				width: 512px;
+				height: 512px;
+				background-position: 7730px 0px;
 			}
 
 			.game-console-15 {
 				width: 512px;
 				height: 512px;
-				background-position: 17458px -5px;
+				background-position: 8242px 0px;
 			}
 
-			.game-controller-4 {
+			.game-console-16 {
 				width: 512px;
 				height: 512px;
-				background-position: 17970px -5px;
+				background-position: 8754px 0px;
+			}
+
+			.game-console-2 {
+				width: 512px;
+				height: 512px;
+				background-position: 9266px 0px;
+			}
+
+			.game-console-3 {
+				width: 512px;
+				height: 512px;
+				background-position: 9778px 0px;
+			}
+
+			.game-console-4 {
+				width: 512px;
+				height: 512px;
+				background-position: 10290px 0px;
+			}
+
+			.game-console-5 {
+				width: 512px;
+				height: 512px;
+				background-position: 10802px 0px;
+			}
+
+			.game-console-6 {
+				width: 512px;
+				height: 512px;
+				background-position: 11314px 0px;
+			}
+
+			.game-console-7 {
+				width: 512px;
+				height: 512px;
+				background-position: 11826px 0px;
+			}
+
+			.game-console-8 {
+				width: 512px;
+				height: 512px;
+				background-position: 12338px 0px;
 			}
 
 			.game-console-9 {
 				width: 512px;
 				height: 512px;
-				background-position: 18482px -5px;
+				background-position: 12850px 0px;
+			}
+
+			.game-console {
+				width: 512px;
+				height: 512px;
+				background-position: 13362px 0px;
+			}
+
+			.game-controller-1 {
+				width: 512px;
+				height: 512px;
+				background-position: 13874px 0px;
+			}
+
+			.game-controller-2 {
+				width: 512px;
+				height: 512px;
+				background-position: 14386px 0px;
+			}
+
+			.game-controller-3 {
+				width: 512px;
+				height: 512px;
+				background-position: 14898px 0px;
+			}
+
+			.game-controller-4 {
+				width: 512px;
+				height: 512px;
+				background-position: 15410px 0px;
+			}
+
+			.game-controller-5 {
+				width: 512px;
+				height: 512px;
+				background-position: 15922px 0px;
+			}
+
+			.game-controller-6 {
+				width: 512px;
+				height: 512px;
+				background-position: 16434px 0px;
+			}
+
+			.game-controller-7 {
+				width: 512px;
+				height: 512px;
+				background-position: 16946px 0px;
+			}
+
+			.game-controller-8 {
+				width: 512px;
+				height: 512px;
+				background-position: 17458px 0px;
+			}
+
+			.game-controller-9 {
+				width: 512px;
+				height: 512px;
+				background-position: 17970px 0px;
+			}
+
+			.game-controller {
+				width: 512px;
+				height: 512px;
+				background-position: 18482px 0px;
 			}

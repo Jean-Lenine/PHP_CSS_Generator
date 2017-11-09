@@ -98,6 +98,7 @@ class CSS_GENERATOR
 	{
 		$i = 0;
 		$largeur = 0;
+		
 		while($i <= count($size) - 1)
 		{
 			$imagecreate = imagecreatefrompng($path[$i]);
@@ -145,7 +146,7 @@ class CSS_GENERATOR
 			".".".substr((substr($path[$ii], strrpos($path[$ii], "/") + 1)), 0, -4) . " {
 				width: ".$size[$ii][0]."px;
 				height: ".$size[$ii][1]."px;
-				background-position: " .$position."px "."-5px" . ";
+				background-position: " .$position."px "."0px" . ";
 			}\n";
 			$i++;
 			$ii++;
